@@ -195,6 +195,13 @@ const theme = {
 <table>
 <tr>
     <td align="center">
+        <a href="https://github.com/Modif93">
+            <img src="https://avatars.githubusercontent.com/u/57270858?v=4" width="100;" alt="Modif93"/>
+            <br />
+            <sub><b>Null</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/Cweili">
             <img src="https://avatars.githubusercontent.com/u/2128450?v=4" width="100;" alt="Cweili"/>
             <br />
@@ -228,15 +235,15 @@ const theme = {
             <br />
             <sub><b>Theodore Brown</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/msanguineti">
             <img src="https://avatars.githubusercontent.com/u/19243840?v=4" width="100;" alt="msanguineti"/>
             <br />
             <sub><b>Mirco Sanguineti</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/RealA10N">
             <img src="https://avatars.githubusercontent.com/u/23400213?v=4" width="100;" alt="RealA10N"/>
@@ -271,15 +278,15 @@ const theme = {
             <br />
             <sub><b>Robin Modisch</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/RemiKalbe">
             <img src="https://avatars.githubusercontent.com/u/8604600?v=4" width="100;" alt="RemiKalbe"/>
             <br />
             <sub><b>Rémi Kalbe</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/hawk93">
             <img src="https://avatars.githubusercontent.com/u/3786547?v=4" width="100;" alt="hawk93"/>
